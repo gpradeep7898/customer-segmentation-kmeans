@@ -51,6 +51,16 @@ This project is licensed under the MIT License.
 
 ## Acknowledgments
 The dataset used in this project is sourced from Kaggle.
+<img width="1121" alt="Screenshot 2024-06-03 at 4 45 50 PM" src="https://github.com/gpradeep7898/customer-segmentation-kmeans/assets/56557652/bf496a53-8dad-4a0c-bf3e-2f247a8a71a8">
+
+<img width="1119" alt="Screenshot 2024-06-03 at 4 46 29 PM" src="https://github.com/gpradeep7898/customer-segmentation-kmeans/assets/56557652/dcd92c18-1342-442e-837e-3e438544b527">
+
+<img width="629" alt="Screenshot 2024-06-03 at 4 47 01 PM" src="https://github.com/gpradeep7898/customer-segmentation-kmeans/assets/56557652/b53d828f-a67c-43d4-bdf2-155055617de7">
+
+<img width="727" alt="Screenshot 2024-06-03 at 4 47 39 PM" src="https://github.com/gpradeep7898/customer-segmentation-kmeans/assets/56557652/f89e57b4-f273-4992-a9b5-90a991f2130f">
+
+<img width="829" alt="Screenshot 2024-06-03 at 4 47 22 PM" src="https://github.com/gpradeep7898/customer-segmentation-kmeans/assets/56557652/22333f4d-b357-4166-ab5e-dfa0e7231db6">
+
 
 
 
